@@ -1,0 +1,1 @@
+gcc -Wall -g -o main main.c app.c -L./raylib/lib/ -l:libraylib.a -lm
